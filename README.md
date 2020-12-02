@@ -2,6 +2,8 @@
 
 TypeScript, React, Linux, and cats. What more could one want in life?
 
-📍 Birmingham, AL
+👨‍💻 - TA with [Covalence.io](https://covalence.io/)
 
-🔗 [https://atlc.dev/](https://atlc.dev/)
+📍 - Birmingham, AL
+
+🔗 - [https://atlc.dev/](https://atlc.dev/)
