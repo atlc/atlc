@@ -1,6 +1,6 @@
 ## @atlc 
 
-TypeScript, React, Linux, and cats. What more could one want in life?
+TypeScript, React, Linux, and cats.
 
 👨‍💻 - TA with [Covalence.io](https://covalence.io/)
 
